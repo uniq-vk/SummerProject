@@ -13,7 +13,7 @@ Given an integer  _n_, visualise all distinct solutions using backtracking  to t
  - [x] Draw board and queens,
  - [x] Implement backtracking algo,
  - [x] Mark attacking positions,
- - [x]  Add command line functionality to control number of queens, animation speed,
+ - [x]  Add command line functionality to control number of queens
 
 ### Tools and Language Used
  1. C++
