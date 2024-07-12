@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/vishal/Downloads/N-Queens-Visualisation/build",
+  "command": "/usr/bin/c++  -I/usr/include/GL -g -o CMakeFiles/nqueens.dir/main.cpp.o -c /home/vishal/Downloads/N-Queens-Visualisation/main.cpp",
+  "file": "/home/vishal/Downloads/N-Queens-Visualisation/main.cpp",
+  "output": "CMakeFiles/nqueens.dir/main.cpp.o"
+}
+]
