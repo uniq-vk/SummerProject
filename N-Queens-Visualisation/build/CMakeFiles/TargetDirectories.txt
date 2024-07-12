@@ -1,0 +1,3 @@
+/home/vishal/Downloads/N-Queens-Visualisation/build/CMakeFiles/nqueens.dir
+/home/vishal/Downloads/N-Queens-Visualisation/build/CMakeFiles/edit_cache.dir
+/home/vishal/Downloads/N-Queens-Visualisation/build/CMakeFiles/rebuild_cache.dir
