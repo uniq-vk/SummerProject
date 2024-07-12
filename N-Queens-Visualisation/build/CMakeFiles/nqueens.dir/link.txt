@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/nqueens.dir/main.cpp.o -o nqueens  -lGL -lglut -lGLU -lm 
