@@ -19,13 +19,3 @@ Given an integer  _n_, visualise all distinct solutions using backtracking  to t
  1. C++
  2. OpenGL
 
-### Instructions to Execute
-  open folder in vs code
-  mkdir build
-  cd build
-  cmake ..
-  press ctrl+shift+B
-  press ctrl+F5
-
-
- The program generates all the solutions to N queens problem with visualisation.
